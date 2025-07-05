@@ -1,17 +1,14 @@
-{
-  "Banner": "https://raw.githubusercontent.com/FertileValPlayer69/REP/refs/heads/main/Assets/Valorant1.png",
-  "Items": [
-    {
-      "Header": "Updated for Valorant v11.00",
-      "Description": "Valorant Swapper is now fully working for the new act.",
-      "IMG": "https://raw.githubusercontent.com/FertileValPlayer69/REP/refs/heads/main/Assets/Corrode.png",
-      "URL": null
-    },
-    {
-      "Header": "Bugs happen. Spot one? Let us know!",
-      "Description": "If you encounter any issues, please let us know on our Discord server.",
-      "IMG": "https://raw.githubusercontent.com/FertileValPlayer69/REP/refs/heads/main/Assets/Killjoy.png",
-      "URL": null
-    }
-  ]
-}
+[
+  {
+    "Header": "Updated for Valorant v11.00",
+    "Description": "Valorant Swapper is now fully working for the new act.",
+    "IMG": "https://raw.githubusercontent.com/FertileValPlayer69/REP/refs/heads/main/Assets/Corrode.png",
+    "URL": null
+  },
+  {
+    "Header": "Bugs happen. Spot one? Let us know!",
+    "Description": "If you encounter any issues, please let us know on our Discord server.",
+    "IMG": "https://raw.githubusercontent.com/FertileValPlayer69/REP/refs/heads/main/Assets/Killjoy.png",
+    "URL": null
+  }
+]

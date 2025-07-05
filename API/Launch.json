@@ -1,3 +1,14 @@
 {
-   "Version":"2.02",
+   "Version":"1.00",
+   "Discord":"https://discord.gg/hf89axb3JJ",
+   "Warning":true,
+   "Downtime":false,
+   "WarningInfo":{
+      "WarningMessage":"Hawk tuah",
+      "WarningHeader":"Please Read:"
+   },
+   "DowntimeInfo":{
+      "DowntimeMessage":"our lead dev amir got raided by indian police force sorry no more update :(",
+      "DowntimeHeader":"Please Read:"
+   }
 }

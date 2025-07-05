@@ -4,7 +4,7 @@
    "Warning":true,
    "Downtime":false,
    "WarningInfo":{
-      "WarningMessage":"Hawk tuah",
+      "WarningMessage":"You are currently on an developmental build of the Swapper, bugs and unfinished features are common",
       "WarningHeader":"Please Read:"
    },
    "DowntimeInfo":{
